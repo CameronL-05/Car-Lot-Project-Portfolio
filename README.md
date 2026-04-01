@@ -1,6 +1,6 @@
 # Car Lot Project Portfolio
 
-A small Java application that simulates a car lot inventory system. This project is a portfolio piece to demonstrate object-oriented programming (OOP) fundamentals and clean separation between data models and business logic.
+A small Java application that simulates a car lot inventory system. This project is a portfolio piece to demonstrate object-oriented programming fundamentals and clean separation between data models and business logic.
 
 ## Project Structure (Major Classes)
 
